@@ -1,0 +1,33 @@
+# 澤野 弘之、Mika Kobayashi – Bauklötze
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:21.76] Es ist wie das Spiel mit Bauklötzen
+[00:25.76] Ich mauere mit Steinen vorsichtig
+[00:32.23] Es ist wie das Spiel mit Bauklötzen
+[00:36.65] Ich sehe meinen leeren Baukasten an
+[00:54.15] 
+[00:42.84] Du brichst meine Mauer arglos mit schmutzigen Händen
+[01:08.84] 
+[00:53.52] An jenem Tag war es ein sehr feuriges Abendrot
+[01:04.17] Ich verstecke die Bauklötzen vor dir
+[01:09.28] Traurige Erinnerung an meine Kindheit
+[01:27.78] 
+[01:34.30] Ist das der Zerstörer oder der Schöpfer?
+[01:45.04] Mit der Glut das Hasses schwenken wir die Schwerter
+[01:55.90] Ist das unser Schicksal oder unser Wille?
+[02:06.17] Wir werden kämpfen bis dieser heiße Wind unsere Flügel nimmt
+[02:36.17] 
+[02:40.06] Es ist wie das Spiel mit Bauklötzen
+[02:44.27] Ich mauere mit Steinen vorsichtig
+[02:50.77] Es ist wie das Spiel mit Bauklötzen
+[02:55.43] Ich sehe meinen leeren Baukasten an
+[03:12.93] 
+[03:01.50] Du brichst meine Mauer arglos mit schmutzigen Händen
+[03:27.50] 
+[03:12.13] Ich tue nichts in den Baukasten
+[03:18.40] Ich will nichts verlieren
+[03:22.92] Ich versteckte die Bauklötzen vor dir
+[03:27.73] Ich mauere wieder mit Steinen vorsichtig
+```
