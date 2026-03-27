@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Bauklötze",
+  "base_artist": "澤野 弘之、Mika Kobayashi",
+  "createdAt": "2026-03-27T10:00:25.904756Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bauklötze",
+      "artist": "Mika Kobayashi feat. Hiroyuki Sawano",
+      "has_synced": true,
+      "path": "select/01_Bauklötze_Mika_Kobayashi_feat._Hiroyuki_Sawano.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bauklötze",
+      "artist": "Kobayashi Mika",
+      "has_synced": true,
+      "path": "select/02_Bauklötze_Kobayashi_Mika.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bauklötze",
+      "artist": "澤野弘之",
+      "has_synced": true,
+      "path": "select/03_Bauklötze_澤野弘之.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bauklötze",
+      "artist": "Hiroyuki Sawano",
+      "has_synced": true,
+      "path": "select/04_Bauklötze_Hiroyuki_Sawano.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bauklotze (Vocal: Mika Kobayashi)",
+      "artist": "Kobayashi Mika",
+      "has_synced": true,
+      "path": "select/05_Bauklotze_(Vocal__Mika_Kobayashi)_Kobayashi_Mika.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bauklotze",
+      "artist": "Hiroyuki Sawano feat. Mika Kobayashi",
+      "has_synced": true,
+      "path": "select/06_Bauklotze_Hiroyuki_Sawano_feat._Mika_Kobayashi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bauklotze",
+      "artist": "Hiroyuki Sawano",
+      "has_synced": true,
+      "path": "select/07_Bauklotze_Hiroyuki_Sawano.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bauklötze",
+      "artist": "Hiroyuki Sawano",
+      "has_synced": true,
+      "path": "select/08_Bauklötze_Hiroyuki_Sawano.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bauklötze <Vocal: MIKA KOBAYASHI>",
+      "artist": "Hiroyuki Sawano",
+      "has_synced": true,
+      "path": "select/09_Bauklötze__Vocal__MIKA_KOBAYASHI_Hiroyuki_Sawano.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bauklotze",
+      "artist": "Mika Kobayashi",
+      "has_synced": true,
+      "path": "select/10_Bauklotze_Mika_Kobayashi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bauklötze",
+      "artist": "MIKA KOBAYASHI, Hiroyuki Sawano",
+      "has_synced": true,
+      "path": "select/11_Bauklötze_MIKA_KOBAYASHI,_Hiroyuki_Sawano.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bauklotze",
+      "artist": "Kobayashi Mika",
+      "has_synced": true,
+      "path": "select/12_Bauklotze_Kobayashi_Mika.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bauklotze",
+      "artist": "澤野弘之 feat. Mika Kobayashi",
+      "has_synced": true,
+      "path": "select/13_Bauklotze_澤野弘之_feat._Mika_Kobayashi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bauklotze <Vocal: MIKA KOBAYASHI>",
+      "artist": "澤野弘之",
+      "has_synced": true,
+      "path": "select/14_Bauklotze__Vocal__MIKA_KOBAYASHI_澤野弘之.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bauklötze",
+      "artist": "Mika Kobayashi (小林未郁)",
+      "has_synced": true,
+      "path": "select/15_Bauklötze_Mika_Kobayashi_(小林未郁).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bauklötze",
+      "artist": "澤野弘之 <Vocal: MIKA KOBAYASHI>",
+      "has_synced": true,
+      "path": "select/16_Bauklötze_澤野弘之__Vocal__MIKA_KOBAYASHI.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bauklötze <MIKA KOBAYASHI>",
+      "artist": "Hiroyuki Sawano",
+      "has_synced": true,
+      "path": "select/17_Bauklötze__MIKA_KOBAYASHI_Hiroyuki_Sawano.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bauklötze",
+      "artist": "Hiroyuki Sawano & Mika Kobayashi",
+      "has_synced": true,
+      "path": "select/18_Bauklötze_Hiroyuki_Sawano_&_Mika_Kobayashi.lrc"
+    }
+  ]
+}
